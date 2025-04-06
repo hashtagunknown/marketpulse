@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+python-dotenv
+fredapi
+mftool
+cot_reports
